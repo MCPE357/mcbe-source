@@ -1,2 +1,2 @@
 # mcbe-source
-30 starts and I am uploading the source code
+Get this github repo to 30 stars and I am uploading reconstructed source code of Minecraft Bedrock edition
